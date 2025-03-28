@@ -1,0 +1,12 @@
+/minilibx_linux/obj
+/minilibx_linux/libmlx.a
+/minilibx_linux/Makefile.gen
+/minilibx_linux/libmlx_Linux.a
+
+/libft/*.o
+/libft/get_next_line/*.o
+/libft/libft.a
+
+/objs
+
+/fdf
